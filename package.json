@@ -18,7 +18,10 @@
 	"repository": "https://github.com/shinken-monitoring/pack-mssql",
 	"keywords": [
 	  "pack",
-	  
+	  "microsoft",
+	  "database",
+	  "sqlserver",
+	  "mssql"	  
 	],
 	"dependencies": {
 	  "shinken": ">=1.4"
