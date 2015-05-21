@@ -6,6 +6,9 @@
 "path":"databases/",
 
 "macros":{
+         "_MSSQLINSTANCE": {"type":"string",
+                             "description":"Instance on which we are going to connect (default empty)"
+                             },
          "_MSSQL_CONNECTION_CRIT": {"type":"string",
                              "description":"Time to connect to the server"
                              },
