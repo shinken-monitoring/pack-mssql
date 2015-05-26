@@ -13,6 +13,10 @@
 	  {
 		"name": "Imrane Dessai",
 		"email": "dessai.imrane@gmail.com"
+	  }, 
+	  {
+		"name": "David Guenault",
+		"email": "david.guenault@gmail.com"
 	  } 
 	],
 	"repository": "https://github.com/shinken-monitoring/pack-mssql",
